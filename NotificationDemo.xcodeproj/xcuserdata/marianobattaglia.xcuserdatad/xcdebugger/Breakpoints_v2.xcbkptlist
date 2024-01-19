@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CBFE3A4D-A872-495D-9313-13F7D836C060"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09765F90-1234-4A8C-8C59-AC3281C74B2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NotificationDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "createNotification(title:subtitle:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09765F90-1234-4A8C-8C59-AC3281C74B2B - 40ff3ad336da280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in NotificationDemo.ViewController.createNotification(title: Swift.Optional&lt;Swift.String&gt;, subtitle: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "NotificationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marianobattaglia/Desktop/NotificationDemo/NotificationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "09765F90-1234-4A8C-8C59-AC3281C74B2B - 40ff3ad336da280"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in NotificationDemo.ViewController.createNotification(title: Swift.Optional&lt;Swift.String&gt;, subtitle: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "NotificationDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marianobattaglia/Desktop/NotificationDemo/NotificationDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "608">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
